@@ -70,7 +70,7 @@ print(result)
     "created": "2024-04-26 22:09:46",
     "id": "test_counter",
     "lastAction": "get",
-    "lastRead": "2024-08-14 06:14:28",
+    "lastRead": "2024-09-01 09:27:53",
     "lastUpdated": "2024-04-26 22:09:46",
     "numberOfDigits": 1,
     "ordinal": "zeroth",
